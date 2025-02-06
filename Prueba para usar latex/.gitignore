@@ -7,7 +7,7 @@ class-info.md
 *.blg
 *.bbl
 *.aux
-*.pdf
+*.gz
 *.out
 *.zip
 *.bcf*
