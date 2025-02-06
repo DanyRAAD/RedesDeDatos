@@ -1,0 +1,17 @@
+class-info.md
+*.synctex.gz
+*.log
+*.fls
+*.toc
+*.fdb_latexmk
+*.blg
+*.bbl
+*.aux
+*.pdf
+*.out
+*.zip
+*.bcf*
+*.nav
+*.run.xml
+*.snm
+*.vrb
